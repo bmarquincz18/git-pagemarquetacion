@@ -1,0 +1,30 @@
+body{
+    background-color:greenyellow;
+}
+.center{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.amarillo{
+    background-color:palegreen;
+    height: 350px;
+}
+.azul{
+    background-color:rgb(106, 223, 126);
+    height: 250px;
+}
+.rojo{
+    background-color:greenyellow;
+    height: 250px;
+}
+p{
+    color:green;
+    font-family:Forte;
+
+}
+h1{
+    color:green;
+   font-family:Forte;
+
+}
